@@ -1,8 +1,10 @@
 Knex:
     We will create database persistance with Data Bases.
     New:
-    ☐ Create CRUD in accountsRouter @today @high @MVP
+        ☐ Complete all stretch problems. 
 
     Done:
+        ✔ Create CRUD in accountsRouter @today @MVP @done(20-04-08 18:04)
+        ✔ Convert all requests to async await @today @done(20-04-08 18:06)
 
     
